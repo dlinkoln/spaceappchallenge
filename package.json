@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack --config ./bundler/webpack.prod.js",
-    "dev": "webpack-dev-server --config ./bundler/webpack.dev.js"
+    "dev": "webpack-dev-server --config ./bundler/webpack.dev.js",
+    "deploy": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
