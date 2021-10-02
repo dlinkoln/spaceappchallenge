@@ -9,6 +9,7 @@ module.exports = webpackMerge(
     plugins:
       [
         new CleanWebpackPlugin()
-      ]
-  }
+      ],
+  },
+
 )
