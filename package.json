@@ -1,0 +1,26 @@
+{
+  "name": "spaceappschallenge",
+  "version": "1.0.0",
+  "description": "Space app challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dlinkoln/spaceappchallenge.git"
+  },
+  "keywords": [
+    "space",
+    "glob",
+    "nasa",
+    "space",
+    "garbage"
+  ],
+  "author": "dlinkoln,chaev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dlinkoln/spaceappchallenge/issues"
+  },
+  "homepage": "https://github.com/dlinkoln/spaceappchallenge#readme"
+}
